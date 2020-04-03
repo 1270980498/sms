@@ -1,5 +1,5 @@
 {
-    "name": "caopeng/caopeng-sms",
+    "name": "1270980498/sms",
     "description": "适用于ThinkPHP6.0的各种短信接口集成服务，本项目集成了各大短信业务平台，支持ThinkPHP5.0、ThinkPHP5.1和ThinkPHP6.0，目前支持阿里云、腾讯云，接下来将接入华为云、七牛云等国内较大的公有云服务厂商。",
     "type": "library",
     "license": "MIT",
