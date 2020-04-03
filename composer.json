@@ -9,6 +9,7 @@
             "email": "1270980498@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
         "alibabacloud/client": "^1.5",
