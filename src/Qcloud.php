@@ -9,7 +9,7 @@
 // | Author: ShyComet <shycomet@qq.com>
 // +----------------------------------------------------------------------
 
-namespace Caopeng\sms;
+namespace Caopeng\Sms;
 
 use Qcloud\Sms\SmsSingleSender;
 
