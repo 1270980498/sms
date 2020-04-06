@@ -1,6 +1,7 @@
 {
     "name": "caopeng/caopeng-sms",
     "description": "目前支持阿里云、腾讯云，接下来将接入华为云、七牛云等国内较大的公有云服务厂商。",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
