@@ -14,7 +14,7 @@ namespace Caopeng\Sms;
 use Caopeng\Sms\Aliyun;
 use Caopeng\Sms\Qcloud;
 
-class caosms
+class Caosms
 {
     protected $type;
     protected $config;
